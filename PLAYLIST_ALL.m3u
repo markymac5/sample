@@ -42,10 +42,18 @@ http://line.toptvott.com:80/N4RHIDIGDA/SBDVCVGFOZ/11605
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BT SPORTS2
 http://line.toptvott.com:80/N4RHIDIGDA/SBDVCVGFOZ/4898
 
-#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE URBAN
+#EXTINF:-1 tvg-id="" tvg-name="SOUND CITY" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",SOUND CITY
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/YEe3NbB.png" group-title="MUSIC",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE URBAN
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33646
+#EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",MTV BASE
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV BASE NON STOP HIT" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",MTV BASE NON STOP HIT
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV BASE MEGA HITS" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",MTV BASE MEGA HITS
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/47.ts
 #EXTINF:-1 tvg-id="" tvg-name="MTV HITS" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",MTV HITS
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/22277
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL O" tvg-logo="https://i.imgur.com/V6bYbVJ.jpg" group-title="MUSIC",CHANNEL O
@@ -66,13 +74,19 @@ http://flus3pnl.xyz:25461/speedhdhd/acjQyHovsC/1373
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 http://tv.master22.xyz:25461/edilcasta/wL3yksZvZ2/53850
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/110.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 http://mains.services:2086/nick5404/9928627/95386
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/8dfvAm1.png" group-title="NEWS",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/8dfvAm1.png" group-title="NEWS",Aljazeera
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/65.ts
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://i.imgur.com/YQtjRsr.png" group-title="NEWS",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://i.imgur.com/YQtjRsr.png" group-title="NEWS",CGTN
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/69.ts
 #EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
 https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
@@ -103,10 +117,26 @@ https://vipvikingz.com/101402816/T3ZvI3Q6ya/8000014617
 http://fr01.spr24.net/16608/mpegts?token=V9vvKZYcViyfeC
 #EXTINF:-1 tvg-name="FASHION TV" tvg-id="" tvg-logo="https://i.imgur.com/OEXSXQZ.png" group-title="ENTERTAINMENT",FASHION TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="TRAVEL XP" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",TRAVEL XP
-https://eja.tv/?18a530b903042954218f930b5e1c823c.m3u8
+#EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",TRAVEL
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/61.ts
 #EXTINF:-1 tvg-name="BIG BROTHER NAIJA" tvg-id="" tvg-logo="https://i.imgur.com/bV60olu.png" group-title="ENTERTAINMENT",BIG BROTHER NAIJA
 http://king-tv.online:8080/craig.oostingh/RXPpGTevt1/199219
+#EXTINF:-1 tvg-name="etv extra" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",etv extra
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/32.ts
+#EXTINF:-1 tvg-name="etv" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",etv
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/17.ts
+#EXTINF:-1 tvg-name="etv2" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",etv2
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/31.ts
+#EXTINF:-1 tvg-name="comedy central" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",comedy central
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/27.ts
+#EXTINF:-1 tvg-name="CBS reality" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",CBS Reality
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/26.ts
+#EXTINF:-1 tvg-name="REAL TIME" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",REAL TIME
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/52.ts
+#EXTINF:-1 tvg-name="SPICE" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",SPICE
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/56.ts
+#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",TLC
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/111.ts
 
 
 #EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MBC2
@@ -114,9 +144,11 @@ http://spidertv.xyz:2052/56790212/PEWSAWQ/36657
 #EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MBC2
 http://mhiptv.com:8888/onwer185/01009513779/3664
 #EXTINF:-1 tvg-name="MNET1" tvg-id="" tvg-logo="https://i.imgur.com/Bn6Z37a.png" group-title="MOVIES",MNET1
-http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/32140
-3#EXTINF:-1 tvg-name="MNET1" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET3
-http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/32141
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/15.ts
+3#EXTINF:-1 tvg-name="MNET2" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET2
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/16.ts
+#EXTINF:-1 tvg-name="MNET4" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET4
+http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33602
 #EXTINF:-1 tvg-name="MNET4" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET4
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33602
 #EXTINF:-1 tvg-name="SKY PREMIER VIP" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="MOVIES",SKY PREMIER VIP
@@ -135,6 +167,15 @@ http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158326
 http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158319
 
 
+
+#EXTINF:-1 tvg-name="etv toonz" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",etv toonz
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/33.ts
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-id="" tvg-logo="https://i.imgur.com/ze7dZal.png" group-title="KIDS",NICKELODEON
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/49.ts
+#EXTINF:-1 tvg-name="JIM JAM" tvg-id="" tvg-logo="https://i.imgur.com/" group-title="KIDS",JIM JAM
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/42.ts
+#EXTINF:-1 tvg-name="TELE TOON" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",TELE TOON
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/120.ts
 #EXTINF:-1 tvg-name="DISNEY JNR" tvg-id="" tvg-logo="https://i.imgur.com/Y8BOSvn.png" group-title="KIDS",DISNEY JNR
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33644
 #EXTINF:-1 tvg-name="DISNEY JNR" tvg-id="" tvg-logo="https://i.imgur.com/Y8BOSvn.png" group-title="KIDS",DISNEY JNR
@@ -149,12 +190,9 @@ http://wagmaott.com:8080/chemsou-adminueJVqFhEZq/wiqSEvCtIS/42113
 http://wagmaott.com:8080/chemsou-adminueJVqFhEZq/wiqSEvCtIS/42113
 #EXTINF:-1 tvg-name="NICK" tvg-id="" tvg-logo="https://i.imgur.com/ze7dZal.png" group-title="KIDS",NICK
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33643
-#EXTINF:-1 tvg-name="NICK" tvg-id="" tvg-logo="https://i.imgur.com/ze7dZal.png" group-title="KIDS",NICK
-http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/243672
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",NICK JNR
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/33642
-#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",NICK JNR
-http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38580
+
 
 
 
@@ -162,3 +200,5 @@ http://dimapro.cz:8080/KzilaUMFaY/lUE9wE6vqE/38580
 http://etya-plus.com:8080/ertan07/ertan0707/99385
 #EXTINF:-1 tvg-name="NATGEO WILD" tvg-id="" tvg-logo="https://i.imgur.com/nsWfQRt.png" group-title="WILD LIFE",NATGEO WILD
 http://king-tv.net:8080/captinunleashed87/FbCHwqmi9z/158482
+#EXTINF:-1 tvg-name="discovery" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",DISCOVERY
+http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/117.ts
