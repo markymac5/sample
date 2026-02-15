@@ -228,7 +228,26 @@ https://7pal.short.gy/zigosfhd
 
 
 
-
+#EXTINF:-1 tvg-name="NATGEO WILD" tvg-id="" tvg-logo="https://i.imgur.com/nsWfQRt.png" group-title="WILD LIFE AND DISCOVERY",NATGEO WILD
+https://tvnow.best/api/stream/lilliwhite63@gmail.com/Messyah++/livetv.epg/nat.geo.wild.uk.m3u8
+#EXTINF:-1 tvg-name="NATGEO WILD" tvg-id="" tvg-logo="https://i.imgur.com/nsWfQRt.png" group-title="WILD LIFE AND DISCOVERY",NATGEO WILD
+http://str04.ottg.tv/9038/video.m3u8?username=McGroy&password=6NLR1OCUGX&token=9731863491b0b1e43e3d27cc8891df18&ch_id=453&req_host=pkjX3BL
+#EXTINF:-1 tvg-name="NATGEO" tvg-id="" tvg-logo="https://i.imgur.com/ns" group-title="WILD LIFE AND DISCOVERY",InWild
+https://amg00861-terninternation-inwild-samsungau-3qrga.amagi.tv/playlist/amg00861-terninternation-inwild-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="NATGEO" tvg-id="" tvg-logo="https://i.imgur.com/ns" group-title="WILD LIFE AND DISCOVERY",InWild
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1 tvg-name="discovery" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="WILD LIFE AND DISCOVERY",ANIMAL PLANET
+http://103.229.254.25:7001/play/a0dr/index.m3u8
+#EXTINF:-1 tvg-name="discovery" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="WILD LIFE AND DISCOVERY",ANIMAL PLANET
+http://cm1.portaltv.info:777/DritonRexhepi/cmVx7NZoSo/2353
+#EXTINF:-1 tvg-name="discovery" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="WILD LIFE AND DISCOVERY",DISCOVERY CHANNEL
+http://46.21.250.55:8080/PAKYTU1/5awsriSkJ4/518205
+#EXTINF:-1 tvg-name="HISTORY" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="WILD LIFE AND DISCOVERY",LOVE NATURE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwild-samsung-uk/
+#EXTINF:-1 tvg-name="HISTORY" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="WILD LIFE AND DISCOVERY",LOVE NATURE 4K
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwild-samsung-uk/
+#EXTINF:-1 tvg-name="HISTORY" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="WILD LIFE AND DISCOVERY",REAL WILD
+http://str03.ottg.app/6822/video.m3u8?token=3658d81c9fb8da2d4a1a0ff1dd08db8
 
 
 
