@@ -80,6 +80,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwild-samsung-uk/
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-inwild-samsung-uk/
 #EXTINF:-1 tvg-name="HISTORY" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="WILD LIFE AND DISCOVERY",REAL WILD
 http://str03.ottg.app/6822/video.m3u8?token=3658d81c9fb8da2d4a1a0ff1dd08db8
+#EXTINF:-1 tvg-name="HISTORY" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="WILD LIFE AND DISCOVERY",Nasa Tv
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1775090676/ei/lGfNacWwOuLS6dsPnO6pqAM/ip/188.29.127.89/id/m3kR2KK8TEs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-aigl6nzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/siu/1/bui/AUUZDGJ_xTomS1glrA60ht8evHFn0f8Fs5cQW2RyJMd3AV3ehQw_yQBKEpRW0s3yKRjDe3PKIw/spc/jlWavVee0pS01oPwmoxoNZf5iM8s_64IRNmnLkCx6nqN0_tAYIqgO_U/vprv/1/ns/QNTmP2MPiBrjkKYesFT4lAIT/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/3592500/met/1775069079,/mh/L3/mm/44/mn/sn-aigl6nzs/ms/lva/mv/m/mvi/4/pl/24/rmhost/rr3---sn-aigl6nzs.googlevideo.com/rms/lva,lva/smhost/rr5---sn-aigl6nze.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/n/haMADDKBNI_tXA/mt/1775068611/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,siu,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRQIgJok8ZnyOOyQUM7G8xMkOhT4zOCHbqsIzi4JUVHFn2dMCIQCQ2EP9Ul9Kd1enyCcprS3QvIU3tK27cGaz2yAFu0h3_A%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIgVbo0P18FPSDx5f-08Gm0kSWnwo_k1RiuzWn-Nk6HxHMCIQDp8daCrw0a2Qx97K9jxASQGdTJID8SDZiqoBrzL9aXSg%3D%3D/playlist/index.m3u8
 
 
 
@@ -2488,3 +2490,12 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/boomski/TV-LOGO/refs/heads/main/USA/WeatherSpy.jpg",🇺🇸 | Weather Spy
 https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="",🇺🇸 |
+
+
+
+
+
+
+
+
+
